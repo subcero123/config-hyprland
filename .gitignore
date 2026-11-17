@@ -1,0 +1,12 @@
+.config/ags/@girs/
+.config/ags/node_modules/
+
+# Application data and caches
+.config/rufus-linux/
+
+# Fish generated variables
+.config/fish/fish_variables
+
+# Temporary files
+*.log
+*.tmp
